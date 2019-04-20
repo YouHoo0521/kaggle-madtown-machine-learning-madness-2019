@@ -1,0 +1,6 @@
+./submissions
+./models
+./models/logistic
+./input
+./input/datafiles
+./input/processed
